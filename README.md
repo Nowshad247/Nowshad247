@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nowshad247
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning REDUX
-- 💞️ I’m looking to collaborate on website project
-- 📫 How to reach me .
+- 💞️ I’m looking to collaborate on a website project
+- 📫 How to reach me.
 - - in/nowshad247
 
 <!---
