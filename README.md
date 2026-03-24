@@ -80,7 +80,25 @@ I design and build scalable web applications with a strong focus on clean archit
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
+<h3 align="left">🚀 Core Skills</h3>
 
+<ul>
+  <li><b>Backend Development:</b> Laravel, PHP (OOP), REST API design, authentication systems, role-based access control</li>
+  
+  <li><b>Frontend Development:</b> HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, responsive UI development</li>
+  
+  <li><b>Database:</b> MySQL, PostgreSQL, SQLite, query optimization, relational design</li>
+  
+  <li><b>WordPress Development:</b> Custom theme development, plugin development, performance optimization</li>
+  
+  <li><b>System & DevOps:</b> Linux (AlmaLinux), Nginx, Apache, HAProxy, server setup and configuration</li>
+  
+  <li><b>Automation & Deployment:</b> CI/CD (GitHub Actions, Jenkins), Ansible (learning), Docker (learning)</li>
+  
+  <li><b>Architecture & Practices:</b> MVC structure, modular design, clean code principles, scalable system design</li>
+  
+  <li><b>Tools & Workflow:</b> Git, GitHub, Composer, npm/yarn, VS Code</li>
+</ul>
 ###
 
 <h3 align="left">📌 Featured Projects</h3>
